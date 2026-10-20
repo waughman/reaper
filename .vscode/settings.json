@@ -1,0 +1,8 @@
+{
+  "window.title": "REAPER · ${rootName}",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#410200",
+    "titleBar.activeForeground": "#FFFFFF"
+  },
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python"
+}
